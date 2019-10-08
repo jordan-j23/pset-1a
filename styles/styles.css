@@ -23,6 +23,11 @@ table {
   border: 1px solid white;
 }
 
-th {
-  font-weight: bold;
+li {
+  text-decoration: underline;
+}
+
+.section-content {
+  color: black;
+  font-size: 20px;
 }
