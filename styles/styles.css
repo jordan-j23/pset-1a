@@ -1,0 +1,28 @@
+* {
+    margin: 20;
+    padding: 0;
+}
+
+.list{
+  margin-left: 3%;
+}
+
+body {
+ background-color: orange;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+a {
+  color: blue;
+}
+
+table {
+  border: 1px solid white;
+}
+
+th {
+  font-weight: bold;
+}
