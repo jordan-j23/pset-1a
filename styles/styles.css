@@ -1,5 +1,5 @@
 * {
-    margin: 20;
+    margin: 10;
     padding: 0;
 }
 
@@ -30,4 +30,54 @@ li {
 .section-content {
   color: black;
   font-size: 20px;
+}
+
+.header {
+  text-decoration: underline;
+}
+
+#section1 {
+  text-align: center;
+}
+
+#footer {
+  border: 2px solid blue;
+}
+
+#header {
+  background-color: yellow;
+}
+
+a[href="https://www.ucvts.tec.nj.us/"] {
+  color: purple;
+}
+
+a[href="https://www.ucvts.tec.nj.us/Page/471"] {
+  color: purple;
+}
+
+div p.second {
+  font-weight: 600px;
+}
+
+img {
+  height: 250px;
+  width: 275px;
+  border: 1px solid red;
+}
+
+p {
+  font-size: 18px;
+}
+
+div p {
+  font-size: 20px;
+}
+
+div ol {
+  font-size: 18px;
+}
+
+div ol li {
+  color: gray;
 }
